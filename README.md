@@ -19,13 +19,14 @@ align="right">
 - Spring Boot, Spring Cloud Gateway, Netflix Eureka, Keycloak, ReactJS 
 - Kafka, Redis, Cassandra, PostgreSQL 
 - Docker, Kubernetes, Nginx 
-- Jenkins, ArgoCD, Nexus 
+- GitLab, Jenkins, ArgoCD, Nexus 
 - SonarQube, Trivy, Vault
 
 ### Backend & Frontend
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="35" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="35" title="Spring Boot / Spring Cloud"/>
+  <img src="https://simpleicons.org/icons/keycloak.svg" height="35" title="Keycloak" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="35" title="ReactJS"/>
 </div>
 
@@ -46,8 +47,13 @@ align="right">
 
 ### CI/CD, DevOps & Security Tools
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="35" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="35" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="35" title="ArgoCD"/>
+  <img src="https://simpleicons.org/icons/sonatype.svg" height="35" title="Nexus" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" height="35" title="SonarQube"/>
+  <img src="https://simpleicons.org/icons/trivy.svg" height="35" title="Trivy" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+  <img src="https://simpleicons.org/icons/vault.svg" height="35" title="Vault" style="background-color: white; border-radius: 4px; padding: 2px;"/>
 </div>
 
 ## Contribution Snake
