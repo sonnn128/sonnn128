@@ -8,7 +8,7 @@ I’m a **Java Developer and DevOps Engineer**, focusing on building scalable ba
 
 🤓 Always seeking new knowledge and engineering challenges.
 
-📄 **My CV/Resume:** [View here](https://drive.google.com/file/d/1QTkDEOsM4LssXnQQYR-vK6S5IplLRDWz/view)
+📄 **My CV/Resume:** [View here](https://drive.google.com/file/d/1y1I_tVFMx_-zuBC2Vkr8VOStT2J_dQ1W/view?usp=sharing)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 alt="computer illustration"
